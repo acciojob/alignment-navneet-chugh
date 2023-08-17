@@ -1,10 +1,11 @@
 /*  your css code here. If applicable */
-table {
-    border: 1px solid rgb(0,0,0);
+.table {
+    border: 1px solid rgb(0, 0, 0);
     margin: 1px;
     padding: 1px;
     width: 100%;
-  }
+    border-collapse: collapse; /* Add this line */
+}
   .middle {
     text-align: center;
     vertical-align: middle;
