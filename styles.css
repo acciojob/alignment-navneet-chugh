@@ -1,31 +1,31 @@
 /*  your css code here. If applicable */
-.middle{
-    margin: auto;
-    width: 60%;
-}
-
-.center{
-    text-align: center;
-}
-
-.right{
-    text-align: right;
-}
-
-table{
-    border: 1px solid black;
-    border-spacing: 1px;
-}
-
-td{
+table {
+    border: 1px solid rgb(0,0,0);
+    margin: 1px;
     padding: 1px;
-    border: 1px solid black;
-}
-
-.green{
+    width: 100%;
+  }
+  .middle {
+    text-align: center;
+    vertical-align: middle;
+    border: 1px solid rgb(0,0,0);
+  }
+  .green {
     background-color: green;
-}
-
-.blue{
+    color: green;
+    border: 1px solid rgb(0,0,0);
+  
+  }
+  .blue {
     background-color: blue;
-}
+    color: blue;
+    border: 1px solid rgb(0,0,0);  
+  }
+  
+  .table-1{
+    height: 30px; 
+    border: 1px solid rgb(0,0,0);
+  }
+ .t11 {
+    border: 1px solid rgb(0,0,0); /* Use solid border instead of inset */
+  } 
